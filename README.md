@@ -1,11 +1,8 @@
 ### Hi there, I'm Junior 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://pilcode.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/JuniorSemerzier)
 
 ## I'm a Full-Stack Mobile and Web Developer, Teacher!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m in love with the open souce project
 - 🥅 2020 Goals: Contribute to Open Source projects
