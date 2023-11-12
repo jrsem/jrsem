@@ -19,7 +19,7 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,ts,js,py,css,sass,html,nodejs,flask,raspberrypi,postman,vscode,regex,bootstrap,tailwind,emotion,nginx,git,github,gitlab,r	,graphql,prisma,mongodb,mysql,postgres,heroku,deno,nodejs,express,apollo,alpinejs,matlab,octave,nextjs,react,django,angular,docker,arduino,blender,unity,figma,linux&theme=light)](https://skillicons.dev)
 <br />
 <br />
 
