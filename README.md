@@ -20,6 +20,8 @@
 
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,ts,js,py,css,sass,html,nodejs,flask,raspberrypi,postman,vscode,regex,bootstrap,tailwind,emotion,nginx,git,github,gitlab,graphql,prisma,mongodb,mysql,postgres,heroku,deno,nodejs,express,apollo,alpinejs,matlab,r,octave,nextjs,react,django,angular,docker,arduino,blender,unity,linux,figma&theme=light)](https://skillicons.dev)
+
+ <!--icons sourece: https://github.com/tandpfun/skill-icons-->
 <br />
 <br />
 
